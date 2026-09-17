@@ -8,7 +8,7 @@
 
 ---
 
-## 🐍 Snake Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
 <picture>
@@ -95,6 +95,8 @@
 </div>
 
 ---
+
+## 👨🏻‍💻 Mood
 
 <p align="center">
   <img
